@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+
+body{
+font-family: dancing script;
+
+background-color:black;
+
+}
+
+*{
+
+text-align: center;
+color: white;
+
+
+}
+
+div {
+    display: inline-block;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    margin: 2%;
+    padding: 2%;
+    background-color: white;
+    color: black;
+}
+
+
+nav {
+    background-color: black;
+    height: 100px;
+    text-align: left;
+}
+.candy  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    justify-content: space-evenly;
+
+}
+
+a {
+text-decoration: none;
+color: white;
+
+}
+
+#amongus {
+
+color: black;
+}
+
+
